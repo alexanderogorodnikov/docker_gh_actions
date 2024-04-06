@@ -1,0 +1,4 @@
+name: Deploy with dockerfile to aws s3
+description: Deploy with dockerfile to aws s3
+runs:
+  using: docker
